@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "name": "A",
+      "x": 1,
+      "y": 1,
+      "path": 1,
+      "fill": "#20202"
+    }
+  ],
+  "cause": [
+    {
+      "name": "A",
+      "trigger": 200,
+      "system": 1
+    }
+  ]
+}
